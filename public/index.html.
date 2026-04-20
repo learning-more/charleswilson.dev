@@ -16,14 +16,7 @@
       <h2><strong><A href="Charles_Wilson_Resume-Principle_Product_Manager.pdf">Download my resume</A></strong></h2>
 		</div>
 	</div>
-	
-<form method="POST" action="/api/submit">
-  <input type="text" name="fullname" pattern="[A-Za-z]+" required />
-  <input type="email" name="email" required />
-  <input type="number" name="age" min="18" required />
 
-  <button type="submit">Submit</button>
-</form>
 
 </body>
 </html>
