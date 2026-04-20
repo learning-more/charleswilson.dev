@@ -1,0 +1,12 @@
+User-agent: *
+# Block private areas
+#Disallow: /admin/
+#Disallow: /private/
+#Disallow: /tmp/
+#Disallow: /files/draft-resume.pdf
+
+# Allow everything else
+Allow: /
+
+# Link to your sitemap
+Sitemap: https://www.charleswilson.dev/sitemap.xml
